@@ -1,0 +1,12 @@
+C:\Projects\Maze\Maze\bin\Debug\Maze.exe
+C:\Projects\Maze\Maze\bin\Debug\Maze.pdb
+C:\Projects\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Projects\Maze\Maze\obj\Debug\Maze.Form2.resources
+C:\Projects\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Projects\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+C:\Projects\Maze\Maze\obj\Debug\Maze.exe
+C:\Projects\Maze\Maze\obj\Debug\Maze.pdb
+C:\Projects\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Projects\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Projects\Maze\Maze\obj\Debug\Maze.Form3.resources
+C:\Projects\Maze\Maze\obj\Debug\Maze.Form4.resources
